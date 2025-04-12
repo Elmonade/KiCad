@@ -2144,7 +2144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX"
+		(property "Footprint" "Button Switch:SW_PUSH_6mm"
 			(at 127 128.27 0)
 			(effects
 				(font
@@ -2280,7 +2280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX"
+		(property "Footprint" "Button Switch:SW_PUSH_6mm"
 			(at 135.89 135.89 0)
 			(effects
 				(font
@@ -2947,7 +2947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX"
+		(property "Footprint" "Button Switch:SW_PUSH_6mm"
 			(at 119.38 120.65 0)
 			(effects
 				(font
@@ -3015,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX"
+		(property "Footprint" "Button Switch:SW_PUSH_6mm"
 			(at 144.78 144.78 0)
 			(effects
 				(font
